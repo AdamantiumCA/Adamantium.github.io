@@ -1,2 +1,1 @@
-# Adamantium Stake Pool (Ticker: ADM)
-theme: architect
+Adamantium Stake Pool (Ticker: ADM)
