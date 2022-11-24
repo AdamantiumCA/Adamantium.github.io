@@ -1,1 +1,1 @@
-Adamantium Stake Pool (Ticker: ADM)
+Adamantium Stake Pool (Ticker: ADAMA)
